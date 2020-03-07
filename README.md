@@ -2,7 +2,7 @@
 
 ## Summary
 
-This web part acts as a centralized place where admin can manage SPFx solutions present in their tenant using  Application lifecycle Management(ALM) APIs and perform activities like Add, Deploy, Install, Retract, Uninstall & Remove apps.
+This web part can be used as a centralized place where admin(s) can manage SPFx solutions present in their tenant using Application lifecycle Management(ALM) APIs and perform activities like Add, Deploy, Install, Retract, Uninstall & Remove apps.
 
 ### Tenant Appcatalog
 
@@ -10,7 +10,7 @@ This web part acts as a centralized place where admin can manage SPFx solutions 
 
 ### Site Collection Appcatalog
 
-![Application Lifecycle Management](./assets/SPFxALMSPAppCatalog.gif)
+![Application Lifecycle Management](./assets/SPFxALMSPAppcatalog.gif)
 
 
 **Note:**
