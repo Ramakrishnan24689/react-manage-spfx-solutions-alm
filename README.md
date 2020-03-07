@@ -1,4 +1,4 @@
-# React Manage SPFx using ALM APIs
+# Manage SPFx solutions using ALM APIs
 
 ## Summary
 
