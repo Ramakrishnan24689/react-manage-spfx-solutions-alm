@@ -33,7 +33,7 @@ This webpart is mainly build for tenant and sharepoint admins, since most of the
 
 Solution|Author(s)
 --------|---------
-React-Manage-SPFx-ALM|Ramakrishnan Raman
+React-Manage-SPFx-Solution-ALM|Ramakrishnan Raman
 
 ## Disclaimer
 
